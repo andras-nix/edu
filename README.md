@@ -1,12 +1,12 @@
-# edu
-
 ## Maven
 
 ### Journey in CLI : [maven.md](https://github.com/andras-nix/edu/blob/main/maven.md)
+<br>
 
 ## Dates
 
 ### java.time cheatsheet : [package_java.time.md](https://github.com/andras-nix/edu/blob/main/package_java.time.md)
+<br>
 
 ## Collections
 
