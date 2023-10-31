@@ -1,3 +1,10 @@
+## Git
+### The Basics
+- [git-scm.com](https://git-scm.com/)
+- [Ry's Git Tutorial](https://johnmathews.is/blog/rys-git-tutorial)
+
+### A really fine stuff : [How Git Works by Paolo Perrotta](https://app.pluralsight.com/course-player?clipId=0e31d18b-7060-47e3-b053-e1f7e947973c)
+
 ## Maven
 ### Journey in CLI : [maven.md](https://github.com/andras-nix/edu/blob/main/maven.md)
 
