@@ -8,7 +8,7 @@ class Solution {
    * So you can reuse the previous results, but avoid sideeffects.
   */
   public static void main(String[] args) {
-    List<Integer> oneDigits = null;   // List of numbers from 0 to 9 (incl. booth)
+    List<Integer> oneDigits = null;   // List of numbers from 0 to 9 (incl. both)
     Set<Integer> primes  = null;      // Set of primes: 2, 3, 5, 7
     System.out.printf("oneDigits: %s%nprimes: %s%n%n", oneDigits, primes);
 
