@@ -4,6 +4,9 @@ import java.time.*;
 class Solution {
 
   /**
+   * You should hardcode: odeDigits, primes, currentWeek and otherPrimes
+   * You should calculate programmatically the other.
+   *
    * NOTE: You should keep every collection intact.
    * So you can reuse the previous results, but avoid sideeffects.
   */
