@@ -1,7 +1,7 @@
 import java.time.*;
 import java.time.temporal.*;
 
-class Main {
+class Solution {
 
   public static void main(String[] args) {
     LocalDate dateA = null; // 1864 February 4
