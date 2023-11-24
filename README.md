@@ -43,3 +43,15 @@ Implement `Keystore` interface in the `AlphaKeystore` without any class from [Ja
 - The Java™ Tutorials
   - [Lesson: Generics (Updated)](https://docs.oracle.com/javase/tutorial/java/generics/index.html)
   - [Lesson: Generics by Gilad Bracha](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
+
+## java.io, java.nio & java.nio.file
+- [java.io](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/package-summary.html)
+  - [java.io.InputStream](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/InputStream.html)
+  - [java.io.OutputStream](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/OutputStream.html)
+  - [java.io.Reader](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Reader.html)
+  - [java.io.Writer](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Writer.html)
+  - [java.io.File](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/File.html)
+- [java.nio](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/package-summary.html)
+  - [java.nio.file](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/package-summary.html)
+    - [java.nio.file.Path](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/File.html)
+    - [java.nio.file.Files](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html)
