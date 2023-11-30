@@ -57,6 +57,8 @@ Implement `Keystore` interface in the `AlphaKeystore` without any class from [Ja
     - [java.nio.file.Files](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html)
 
 ## Serialization
+### snippets : [edu__serializable](https://github.com/andras-nix/edu__serializable)
+
 - [java.io](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/package-summary.html)
   - [java.io.Serializable](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Serializable.html)
     - [java.io.Externalizable](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/Externalizable.html)
